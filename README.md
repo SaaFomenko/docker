@@ -14,9 +14,9 @@ $ sudo usermod -aG docker $USER
 Backup docker volume 
 --------------------
 
-sh docker_volume_backup.sh volume_name
+$ sh docker_volume_backup.sh volume_name
 
 Remove all docker objects 
 -------------------------
 
-sh remove_all_objects_doker.sh
+$ sh remove_all_objects_doker.sh
